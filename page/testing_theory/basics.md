@@ -262,7 +262,7 @@ W模型：
 
 性能测试：jmeter
 
-抓包工具：chales、fiddler
+抓包工具：charles、fiddler
 
 UI自动化：uiautomator2、appium、atx
 
@@ -272,7 +272,7 @@ UI自动化：uiautomator2、appium、atx
 
 内存、cpu、电量测试：GT、soloPi
 
-弱网测试：chales
+弱网测试：charles
 
 ------
 
